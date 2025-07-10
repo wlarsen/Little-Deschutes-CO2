@@ -1,0 +1,10 @@
+,Description,C flux (Mg C day^{-1})
+0,Model CO_{2} evasion flux (5-95\% CI):,
+1,Test 1,0.253 (0.038-0.734)
+2,Calibrated CO2 evasion flux: mean (range):,
+3,Test 2,0.209 (0.115-0.325)
+4,Test 2a: remove wetlands,0.168 (0.103-0.291)
+5,Test 2b: remove headwaters,0.173 (0.089-0.266)
+6,Outlet C fluxes (5-95\% CI),
+7,DIC,0.902 (0.745-1.06)
+8,DOC,0.694 (0.625-0.763)
